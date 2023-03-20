@@ -1,7 +1,7 @@
 clc;
 clear;
 % [file path] = uigetfile('*.*');
-root = './原始图像`';
+root = './原始图像';
 img_list = dir(root);
 for i = 3:174
     name = img_list(i).name;

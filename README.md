@@ -13,9 +13,25 @@
 本文的思路是根据图像进行切割然后计算最大连通域
 
 通过判断前两个最大的是否为空白区域然后进行微调最终形成结果
+## Lung CT Image Processing [MATLAB]
+Input images are obtained to obtain images of the inside of the lungs and random seed points are generated inside
+Lung CT image processing
+
+In this paper, CT images of lungs are uploaded and the binarized template of the lungs is obtained using MATLAB for connectivity domain calculation
+
+> [A binary template of lung images can be generated using a generation algorithm using the generated seed points]
+
+> students who need deep learning can use the generated template to do end2end training.
+
+The final result of this paper is the generation of random points within the lungs
+
+The idea of this article is to cut the image and then calculate the maximum connected domain
+
+By judging whether the first two largest are blank areas, and then fine-tuning, the final result is formed
 
 
 下面是实验结果：
+Here are the results of the experiment:
 
 
 

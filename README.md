@@ -30,8 +30,8 @@ The idea of this article is to cut the image and then calculate the maximum conn
 By judging whether the first two largest are blank areas, and then fine-tuning, the final result is formed
 
 
-# 下面是实验结果：
-# Here are the results of the experiment:
+## 下面是实验结果：
+## Here are the results of the experiment:
 
 
 
